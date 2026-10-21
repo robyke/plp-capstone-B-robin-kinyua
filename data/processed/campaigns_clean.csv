@@ -1,0 +1,13 @@
+campaign_id,campaign_month,campaign_type,marketing_spend,new_users_acquired
+1,2025-07-01,Referral Bonus,683572,829
+2,2025-08-01,Cashback,611143,911
+3,2025-09-01,Bill Pay Promo,786326,523
+4,2025-10-01,Merchant Discount,553364,654
+5,2025-11-01,Referral Bonus,417055,1052
+6,2025-12-01,Savings Push,287696,912
+7,2026-01-01,Cashback,663756,326
+8,2026-02-01,Agent Activation,848006,714
+9,2026-03-01,Merchant Discount,546090,1001
+10,2026-04-01,Savings Push,345253,1176
+11,2026-05-01,Bill Pay Promo,628517,1187
+12,2026-06-01,Referral Bonus,539087,323

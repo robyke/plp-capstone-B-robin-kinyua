@@ -1,0 +1,11 @@
+table,issue,action,rows_affected
+users,Invalid or missing signup dates,Converted signup_date to datetime,0
+transactions,Duplicate transaction IDs,Removed duplicate txn_id rows,2
+transactions,Inconsistent product text,Trimmed whitespace and standardised product case,1
+transactions,Inconsistent channel text,Standardised channel case,1
+transactions,Missing transaction amount,Imputed with positive median amount (988),1
+transactions,Non-positive transaction amount,Removed rows with amount <= 0,1
+transactions,Invalid transaction dates,Parsed dates and removed unparseable rows,0
+transactions,Transactions before user signup,Removed lifecycle-invalid transactions,1
+campaigns,Campaign date type,Converted campaign_month to datetime,0
+activity,Activity field consistency,Standardised numeric fields and recalculated active_flag,0
