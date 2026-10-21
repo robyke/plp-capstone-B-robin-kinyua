@@ -111,6 +111,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/robyke/plp-capstone-B-robin-kinyua.git
 cd plp-capstone-B-robin-kinyua
+```
+
+Install the required libraries:
+
+```bash
 pip install -r requirements.txt
 ```
 
