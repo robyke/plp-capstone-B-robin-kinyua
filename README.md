@@ -106,6 +106,8 @@ plp-capstone-B-robin-kinyua/
 
 ## How to Run
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/robyke/plp-capstone-B-robin-kinyua.git
 cd plp-capstone-B-robin-kinyua
