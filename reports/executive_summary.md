@@ -28,7 +28,7 @@ Cohort analysis shows that activity generally weakens as customers move further 
 6. Explore high-value counties such as Nyeri, Nakuru and Machakos.
 7. Introduce lifecycle retention campaigns several months after signup.
 
-## Expected Business Impact
+## Business Impact
 
 If applied to real operational data, these actions could improve transaction frequency, customer lifetime value, retention and the efficiency of acquisition spending.
 
